@@ -1,0 +1,11 @@
+## IDE
+.idea/
+.docs/
+.vscode/
+
+### Node
+node_modules/
+
+### Build output
+dist/
+.next/
