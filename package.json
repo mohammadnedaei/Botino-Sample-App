@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "NODE_OPTIONS=--no-experimental-webstorage next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 3025"
   },
   "dependencies": {
     "next": "15.3.4",
